@@ -10,7 +10,7 @@ def saudacao(nome: str) -> str:
 
     return f"Olá, {nome}!"
 
-if __name__ == "__main__":
+if __name__ == "__main__":m
 
     nome = input("Digite seu nome: ")
 
